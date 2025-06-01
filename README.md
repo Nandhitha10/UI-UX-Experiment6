@@ -1,4 +1,4 @@
-# UI-UX-Experiment6
+[LAB 6 UIUX.pdf](https://github.com/user-attachments/files/20539451/LAB.6.UIUX.pdf)# UI-UX-Experiment6
 
 ## Aim:
 To complete the Combined Scenarois.
@@ -34,7 +34,7 @@ Perform card sorting (open or closed).
 Create a site map showing categorized structure.
 
 ## Output:
-[Lab_Task_6.pdf](https://github.com/user-attachments/files/20533638/Lab_Task_6.pdf)
+[LAB 6 UIUX.pdf](https://github.com/user-attachments/files/20539449/LAB.6.UIUX.pdf)
 
 ## Result:
 The Combined Scenarois is completed and verified.
